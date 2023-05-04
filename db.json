@@ -1,0 +1,106 @@
+{ 
+    "camposFormulario":[
+    {
+    "titulo": "Nombre",
+    "mensaje_default": "Escriba el titulo del video",
+    "required": "required"
+    },
+    {
+    "titulo": "Video",
+    "mensaje_default": "Escriba la URL del video",
+    "required": "required"
+    },
+    {
+    "titulo": "Imagen",
+    "mensaje_default": "Escriba la URL de la imagen del video",
+    "required": ""
+    }
+  ],
+  
+    "arregloCategorias":[
+    {
+    "categoria": "Nuevo",
+    "descripcion": "Videos nuevos",
+    "color": "#7c012d",
+    "seguridad": "1234"
+    },
+    {
+    "categoria" : "Lo mas visto",
+    "descripcion": "Los videos mas populares",
+    "color" : "#CECECE",
+    "seguridad": "5678"
+    },
+    {
+    "categoria" : "Para ti",
+    "descripcion": "Los videos recomendados para el usuario",
+    "color" : "#6BD1FF",
+    "seguridad": "9101112"
+    }
+  ],
+    "arregloVideos":[
+    {
+        "video" : "https://www.youtube.com/embed/PhlIUq8RSuA",
+        "nombre" : "Video1",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/T6U-MFw2SDA",
+        "nombre" : "Video2",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/uGBFS9HzVwc",
+        "nombre" : "Video3",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/q-rdZqtS75M",
+        "nombre" : "Video4",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/iHCHDyFVURQ",
+        "nombre" : "Video5",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/JtYuQgvChyQ",
+        "nombre" : "Video6",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/5D62qG1GbJA",
+        "nombre" : "Video7",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    },
+    {
+        "video" : "https://www.youtube.com/embed/9f7ZUIovff8",
+        "nombre" : "Video8",
+        "imagen" : "",
+        "categoria" : "Nuevo",
+        "descripcion" : "",
+        "seguridad" : ""
+    }
+  ]
+}
